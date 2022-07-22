@@ -1,0 +1,9 @@
+export 'package:intargram/widgets/avatar.dart';
+export 'package:intargram/widgets/button_default.dart';
+export 'package:intargram/widgets/button_follow.dart';
+export 'package:intargram/widgets/comment_card.dart';
+export 'package:intargram/widgets/dialog_back.dart';
+export 'package:intargram/widgets/like_animation.dart';
+export 'package:intargram/widgets/line.dart';
+export 'package:intargram/widgets/post_card.dart';
+export 'package:intargram/widgets/textfield_default.dart';

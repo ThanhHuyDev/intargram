@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "31129991834",
+    "project_id": "flutter-intargram-app",
+    "storage_bucket": "flutter-intargram-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31129991834:android:7014a77ab288eef4bf3d23",
+        "android_client_info": {
+          "package_name": "com.example.intargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31129991834-0co3kg559kv80gbgitmqo4a938t1sbkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intargram",
+            "certificate_hash": "8217a1d320e7575fb2a5d0a05e164bc7ee849a94"
+          }
+        },
+        {
+          "client_id": "31129991834-b3hao9s0cnudug7jq2k7s5vqt85bfr3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EZR0HBh7YpP9SXLfm3qykvLw2208NpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31129991834-b3hao9s0cnudug7jq2k7s5vqt85bfr3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
